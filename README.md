@@ -1,6 +1,7 @@
 Two-Player Pong Game
 
-This is a simple two-player pong game with scene switching functionality. The game allows two players to compete against each other in a classic pong match. It does not have any AI for single-player play and does not include sound effects.
+This is a simple two-player pong game with scene switching functionality. The game allows two players to compete against each other in a classic pong match. It does not have any AI for single-player play and does not include sound effects. This game is merely for improving my skills in Unity and to increase my Portfolio of games.
+
 Features
 
     Two-player gameplay: Enjoy playing against a friend in a competitive pong match.
