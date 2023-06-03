@@ -1,4 +1,4 @@
-##Two-Player Pong Game
+Two-Player Pong Game
 
 This is a simple two-player pong game with scene switching functionality. The game allows two players to compete against each other in a classic pong match. It does not have any AI for single-player play and does not include sound effects.
 Features
@@ -6,12 +6,12 @@ Features
     Two-player gameplay: Enjoy playing against a friend in a competitive pong match.
     Scene switching: The game includes a menu scene and a play scene, allowing easy navigation between the two.
 
-##Requirements
+Requirements
 
     Unity Game Engine (version 2021.3.18f1)
     Unity Standard Assets (version 2021.3.18f1)
 
-##Installation
+Installation
 
     Download the file inside this drive, no installation needed: https://drive.google.com/drive/folders/1VuaZjgm4SnUGgZ0ePaA2H0UAppLpluc8?usp=sharing
     Open the project in Unity Game Engine.
@@ -20,24 +20,24 @@ Features
     Use the keyboard keys W and S key for Player 1 and Up and Down keys for Player 2
     Press Esc to pause the game.
 
-#Controls
+Controls
 
-#Player 1:
+Player 1:
 
     Up: W key
     Down: S key
 
-#Player 2:
+Player 2:
 
     Up: Up arrow key
     Down: Down arrow key
 
-#Known Issues
+Known Issues
 
     No sound effects are included in the game.
     The game does not have AI for single-player play.
 
-##License
+License
 
 This project is licensed under the MIT License.
 
